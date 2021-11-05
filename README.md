@@ -7,11 +7,11 @@ Descrição do site -
 2-Paleta de cores:
 ![image](https://user-images.githubusercontent.com/80282273/140449744-5cd62f1e-7b5a-4da4-8e9d-8f03d7ed8ae3.png)
 
-![forza horizon 5]#8C4653
-![forza horizon 5]#8590A6
-![forza horizon 5]#F2490C
-![forza horizon 5]#A6381F
-![forza horizon 5]#BF9B93
+#8C4653
+#8590A6
+#F2490C
+#A6381F
+#BF9B93
 
 3-Fontes escolhidas:
 ![forza horizon 5]1-https://www.dafont.com/pt/skeleton-blood.font
