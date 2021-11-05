@@ -14,8 +14,8 @@ Descrição do site -
 #BF9B93
 
 3-Fontes escolhidas:
-![forza horizon 5]1-https://www.dafont.com/pt/skeleton-blood.font
-![forza horizon 5]2-https://www.dafont.com/pt/happy-halloween-2.font
+1-https://www.dafont.com/pt/skeleton-blood.font
+2-https://www.dafont.com/pt/happy-halloween-2.font
 
 
 
