@@ -2,7 +2,7 @@
 Descrição do site - 
 
 1- Imagem escolhida para a paleta de cores:
-![image](https://user-images.githubusercontent.com/80282273/140449687-66e53013-d78d-4f55-a799-dc9525d856fd.png)
+![forza horizon 5](https://user-images.githubusercontent.com/80282273/140449687-66e53013-d78d-4f55-a799-dc9525d856fd.png)
 
 2-Paleta de cores:
 ![image](https://user-images.githubusercontent.com/80282273/140449744-5cd62f1e-7b5a-4da4-8e9d-8f03d7ed8ae3.png)
@@ -16,8 +16,6 @@ Descrição do site -
 1-https://www.dafont.com/pt/skeleton-blood.font
 2-https://www.dafont.com/pt/happy-halloween-2.font
 
-1-Amostra da fonte escolhida 
-2-Amostra da fonte escolhida
 
 
 
